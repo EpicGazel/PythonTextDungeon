@@ -1,1 +1,1 @@
-# PythonTextDungeon
+A simple python text dungeon using "classes". Everything is random, die to quit out, and good luck.
